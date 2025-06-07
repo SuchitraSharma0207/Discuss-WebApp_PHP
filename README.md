@@ -28,32 +28,36 @@
 ![answering](https://github.com/user-attachments/assets/c6d893f9-f78a-4551-8bc3-714f569d5de9)
 
 ## 📁 Folder Structure
-/Discuss-WebApp
-│
+'''Discuss-WebApp/
 ├── client/
-│ ├── login.php
-│ ├── signup.php
-│ ├── ask.php
 │ ├── answer.php
-│ ├── question.php
-│ ├── question-detail.php
+│ ├── ask.php
 │ ├── category.php
 │ ├── categorylist.php
+│ ├── commonfiles.php
 │ ├── header.php
-│ └── commonfiles.php
+│ ├── login.php
+│ ├── question-detail.php
+│ ├── question.php
+│ └── signup.php
 │
 ├── common/
 │ └── db.php
 │
 ├── public/
 │ ├── logo.png
-│ └── style.css
+│ ├── style.css
+│ └── screenshots/
+│ ├── login.png
+│ ├── ask-question.png
+│ ├── category.png
+│ └── question-detail.png
 │
 ├── server/
 │ └── requests.php
 │
 ├── index.php
-└── README.md
+└── README.md'''
 
 ## 🔧 Built With
 
