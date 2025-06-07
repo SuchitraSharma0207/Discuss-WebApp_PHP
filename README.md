@@ -28,7 +28,7 @@
 ![answering](https://github.com/user-attachments/assets/c6d893f9-f78a-4551-8bc3-714f569d5de9)
 
 ## 📁 Folder Structure
-Discuss-WebApp/
+```Discuss-WebApp/
 ├── client/
 │ ├── answer.php
 │ ├── ask.php
@@ -57,8 +57,8 @@ Discuss-WebApp/
 │ └── requests.php
 │
 ├── index.php
-└── README.md```
-
+└── README.md
+```
 ## 🔧 Built With
 
 - PHP
